@@ -21,6 +21,8 @@ steam_machine_-_backplate_1.step
 Both files combined if you just want a full size reference:
 steam_machine_-_faceplate_combined_1.step
 
+![Steam Machine Faceplate 1](steam_machine_faceplate_1.png "Steam Machine Faceplate 1")
+
 ## License
 
 This project is licensed under the MIT License, see LICENSE.
