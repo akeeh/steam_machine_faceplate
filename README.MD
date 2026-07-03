@@ -8,7 +8,8 @@ Mockup CAD files modified from Inkterface CAD files while waiting for official m
 ## Notes
 Not tested yet, but as they are modified from official files, they should be quite accurate.
 
-TODO: magnet holes need work to fit some basic magnets.
+TODO 1: magnet holes need work to fit some basic magnets.
+TODO 2: faceplate thickness not verified, the E-ink faceplate seems slightly thicker than the normal, judging by the photos.
 
 ## Files
 
